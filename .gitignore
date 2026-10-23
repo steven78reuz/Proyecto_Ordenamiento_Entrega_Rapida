@@ -1,0 +1,22 @@
+# Datos generados (pueden ser enormes)
+Datos/*.txt
+Resultados/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# C/C++
+*.exe
+*.out
+*.o
+
+# C# / .NET
+bin/
+obj/
+
+# Java
+*.class
+
+# VS Code
+.vscode/
